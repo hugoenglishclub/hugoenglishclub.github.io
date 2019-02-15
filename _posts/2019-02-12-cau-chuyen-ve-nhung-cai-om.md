@@ -3,7 +3,7 @@ layout: post
 title:  "Câu chuyện về những cái ôm"
 date:   2019-02-12
 excerpt: 'Tạm biệt Đà Nẵng để về quê ăn tết. Giữa cái tiết se lạnh của mùa xuân miền Bắc, tôi lại nhớ đến những cái ôm ấm áp của Hugo.'
-image: "/images/img_post/170119/00.jpg"
+image: "/images/img_post/51936831_403916770413597_4446592973127286784_n.jpg"
 categories: [Hong pik]
 comments: true
 ---
